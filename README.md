@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guptadivyank
-- 👀 I’m interested in Full Stack developement and building ML platform.
-- 🌱 I’m currently learning Typescript and React.
+- 👀 I’m interested in Full Stack developement , ML Ops and building ML platform.
+- 🌱 I’m currently learning about Nvidea Triton.
 
 <!---
 guptadivyank/guptadivyank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
